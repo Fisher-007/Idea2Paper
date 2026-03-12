@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![arXiv - Idea2Story](https://img.shields.io/badge/arXiv-2601.20833-b31b1b.svg)](https://arxiv.org/abs/2601.20833)
 [![Stars](https://img.shields.io/github/stars/AgentAlphaAGI/Idea2Paper?style=social)](https://github.com/AgentAlphaAGI/Idea2Paper/stargazers)
+[![Website](https://img.shields.io/badge/Website-Live_Demo-blue)](http://paperbuild.cn.com)
 
 [English](README.md) | [中文](README-zh_CN.md)
 
