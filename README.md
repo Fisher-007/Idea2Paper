@@ -70,7 +70,7 @@ reliable autonomous scientific discovery.
 | WeChat Group                                                                                | Discord Channel |
 |---------------------------------------------------------------------------------------------| --- |
 | <p align="center"> <img src="./assets/images/idea2paper_code.png" width="200" /><br/>  </p> | https://discord.gg/XfAQYRZ4kk |
-
+[![Website](https://img.shields.io/badge/Website-Live_Demo-blue)](http://paperbuild.cn)
 
 ## ✨ Key Features
 
