@@ -21,6 +21,7 @@
 
   <br/>
 
+  - [🆕 Story2Proposal](#-story2proposal)
   - [📄 Idea2Paper](#-idea2paper)
   - [💬 用户交流群](#用户交流群)
   - [✨ 核心特性](#-核心特性)
@@ -35,6 +36,12 @@
 
 </details>
 
+## 🆕 Story2Proposal
+
+**AgentAlpha 最新工作：** [papers/Story2Proposal.pdf](papers/Story2Proposal.pdf)  
+**标题：** `Story2Proposal: A Scaffold for Structured Scientific Paper Writing`
+
+`Story2Proposal` 是 AgentAlpha 最新的结构化科研写作工作。它提出了一个受契约约束的多智能体框架，通过持久共享的视觉契约，把 research story 转化为结构化 scientific manuscript。系统围绕 architect、writer、refiner、renderer 以及评估代理协同运行，在 `generate-evaluate-adapt` 闭环中持续维护章节结构、论证一致性、图表对齐和数据忠实性，从而减少长篇科研写作中的结构漂移、跨章节矛盾以及视觉要素缺失。论文在 Jericho research corpus 派生任务上的结果表明，该方法相较 DirectChat 和 FARS 取得了更好的结构一致性、视觉对齐和整体专家评分。
 
 ## 📄 Idea2Paper
 

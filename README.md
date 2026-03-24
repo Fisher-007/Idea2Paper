@@ -20,6 +20,7 @@
 
   <br/>
 
+  - [🆕 Story2Proposal](#-story2proposal)
   - [📄 Idea2Paper](#-idea2paper)
   - [💬 User Community](#-user-community)
   - [✨ Key Features](#-key-features)
@@ -37,6 +38,13 @@
 </details>
 
 ---
+
+## 🆕 Story2Proposal
+
+**AgentAlpha's latest work:** [papers/Story2Proposal.pdf](papers/Story2Proposal.pdf)  
+**Title:** `Story2Proposal: A Scaffold for Structured Scientific Paper Writing`
+
+Story2Proposal is AgentAlpha's latest work on structured scientific writing. It introduces a contract-governed multi-agent framework that transforms a research story into a structured scientific manuscript through a persistent shared visual contract. The system coordinates architect, writer, refiner, renderer, and evaluation agents in a generate-evaluate-adapt loop to preserve section structure, argumentative consistency, figure/table alignment, and data fidelity across the full document lifecycle. On tasks derived from the Jericho research corpus, the paper reports stronger structural consistency, visual alignment, and overall expert evaluation than DirectChat and FARS.
 
 ## 📄 Idea2Paper
 
